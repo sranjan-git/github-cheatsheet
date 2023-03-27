@@ -1,0 +1,24 @@
+                                                                    Created by Sudhanshu Ranjan
+                                                                 ---------------------------------
+GitHub Shortcuts
+=================
+Press "?" to access all shortcuts in GitHub.
+
+URL Shortener
+==============
+Go to "git.io" to shoten all your github links.
+
+Lines
+======
+Let's say you want to the code to be reviewed by mentor/friends, simply select that specific code line/lines number (press shift if more than one line). 
+After this, copy the url from your browser you are ready to share this link anywhere you want. Whoever opens this link, selected code will appear as
+highlighted.
+
+BLAME
+======
+Use "Blame" feature to check all the changes made in your code by other creators.
+
+COMMITS
+========
+Nowadays there are numerous commits so to standout try this - Whenever you make any commit, make sure to add comment alongwith, as it will be easier to 
+find your work in future. If no comments are made, it might get collapsed.
